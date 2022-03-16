@@ -1,0 +1,2 @@
+# FrequentPatternMining
+Frequent Pattern Mining is also known as the Association Rule Mining. Finding frequent patterns, causal structures and associations in data sets and is an inquisitive process called pattern mining. When a series of transactions are given, pattern mining’s main motive is to find the rules that enable us to speculate a certain item based on the happening of other items in the transaction.
